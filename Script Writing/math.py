@@ -1,0 +1,7 @@
+firstnum =int(input("Enter your First Number: "))
+secondnum =int(input("Enter Second Number: "))
+print(firstnum, secondnum)
+print(firstnum+secondnum)
+print(firstnum/secondnum)
+print(firstnum*secondnum)
+print(firstnum-secondnum)
